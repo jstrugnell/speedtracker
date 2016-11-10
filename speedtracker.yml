@@ -37,7 +37,7 @@
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-encryptionKey: "1745347910e7fe14eb0a20aca44ae4e3c6038f68"
+encryptionKey: "c8c6bd3df30fc31f62"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -50,7 +50,7 @@ encryptionKey: "1745347910e7fe14eb0a20aca44ae4e3c6038f68"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptKey: "300f333a4de2bd46fb2f56c7d10da01850019e6dee038b76b6938095c182dd0ce491"
+wptKey: "ef8cba7eae0a804d724e98fe3d574f1346001ac190b76ff5c436a9c0d8c305fdd963"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -82,7 +82,7 @@ wptKey: "300f333a4de2bd46fb2f56c7d10da01850019e6dee038b76b6938095c182dd0ce491"
 alerts:
   emailAlert:
     type: "email"
-    recipients: ["1b0f267e5aa6ed49ff200dbf861eb544060a9165be00d737e686d99c979a8a02b1"]
+    recipients: ["c48caf3ab94ed0427641c3866a445a4f100b15c9c0b433b49423f0c98edb52f38c"]
 #  otherEmailAlert:
 #    type: "email"
 #    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
